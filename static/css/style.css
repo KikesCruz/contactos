@@ -1,0 +1,41 @@
+body {
+    background: #2C3639;
+
+}
+body::-webkit-scrollbar {
+    width: 12px;
+}
+body::-webkit-scrollbar-track {
+    background: #b4b4b4;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #29294b;
+    border-radius: 20px;
+    border: 3px solid #ece6db;
+}
+
+
+.navbar-color {
+    background: #3F4E4F;
+}
+
+.container-fluid a {
+    color: #b98c68;
+    font-size: 1.2rem;
+}
+
+.container-fluid a:hover {
+    color: #DCD7C9;
+}
+
+.form-group input[type="text"]{
+    height: 2.8rem;
+}
+
+.txt-title{
+    color: #b98c68;
+}
+.btn-color{
+    background: #b98c68;
+    border-color: #b98c68;
+}
